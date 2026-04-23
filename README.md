@@ -1,4 +1,4 @@
-# K-Means-Clustering-
+# K-Means-Clustering
 This project implements the K-Means clustering algorithm from scratch using the Iris dataset. The model uses two features — petal length and petal width — to group the data into clusters and visualize the results.
 
 # Objective
